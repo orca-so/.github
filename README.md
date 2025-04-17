@@ -1,6 +1,15 @@
 <p align="center">
   <img src="./logomark.png" alt="Orca Logo"/>
 </p>
+<p align="center">
+  <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/orca_so">
+  <a href="https://discord.gg/dHe94wQB">
+    <img src="https://dcbadge.limes.pink/api/server/INVITE" alt="Join our Discord" />
+  </a>
+  <a href="https://t.me/+cXol3WI6dVoyYTM1">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+</p>
 
 - [Whirlpool Program](https://github.com/orca-so/whirlpools/tree/main/programs/whirlpool)
 
