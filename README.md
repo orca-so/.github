@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./logomark.png" alt="Orca Logo" width="64px"/>
+  <img src="./logomark.png" alt="Orca Logo" width="96px"/>
 </p>
 <p align="center">
   <a href="https://twitter.com/intent/follow?screen_name=orca_so">
