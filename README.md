@@ -1,11 +1,19 @@
 <p align="center">
   <img src="./logomark.png" alt="Orca Logo" width="64px"/>
 </p>
-  [![X](https://img.shields.io/badge/Follow-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/intent/follow?screen_name=orca_so)
+<p align="center">
+  <a href="https://twitter.com/intent/follow?screen_name=orca_so">
+    <img src="https://img.shields.io/badge/Follow-000000?style=flat&logo=x&logoColor=white" alt="X" />
+  </a>
   &nbsp;&nbsp;
-  [![Discord](https://img.shields.io/badge/Join-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/dHe94wQB)
+  <a href="https://discord.gg/dHe94wQB">
+    <img src="https://img.shields.io/badge/Join-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord" />
+  </a>
   &nbsp;&nbsp;
-  [![Telegram](https://img.shields.io/badge/Join-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/+cXol3WI6dVoyYTM1)
+  <a href="https://t.me/+cXol3WI6dVoyYTM1">
+    <img src="https://img.shields.io/badge/Join-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+</p>
 
 - [Whirlpool Program](https://github.com/orca-so/whirlpools/tree/main/programs/whirlpool)
 
