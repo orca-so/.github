@@ -3,8 +3,11 @@
 </p>
 <p align="center">
   <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/orca_so">
+  <a href="https://twitter.com/intent/follow">
+    <img src="https://img.shields.io/badge/Follow-##000000?style=flat&logo=x&logoColor=white" alt="Discord" />
+  </a>
   <a href="https://discord.gg/dHe94wQB">
-    <img src="https://dcbadge.limes.pink/api/server/INVITE?style=flat" alt="Join our Discord" />
+    <img src="https://img.shields.io/badge/Discord-#5865F2?style=flat&logo=discord&logoColor=white" alt="Discord" />
   </a>
   <a href="https://t.me/+cXol3WI6dVoyYTM1">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram" />
