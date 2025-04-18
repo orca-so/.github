@@ -10,7 +10,7 @@
 ## Docs
 
 - [Developer documentation](https://dev.orca.so/)
-- [Prodcut documentation](https://docs.orca.so/)
+- [Product documentation](https://docs.orca.so/)
 
 ## API
 
