@@ -1,7 +1,7 @@
 <p align="center">
   <img src="./logomark.png" alt="Orca Logo" width="64px"/>
 </p>
-<p align="center">
+<p align="center", style="text-decoration: none">
   <a href="https://twitter.com/intent/follow?screen_name=orca_so">
     <img src="https://img.shields.io/badge/Follow-000000?style=flat&logo=x&logoColor=white" alt="X" />
   </a>
@@ -28,13 +28,20 @@
 
 ## SDKs
 
-| Rust                                                                                              | TypeScript                                                                                            |
-| ------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| [Rust SDK](https://github.com/orca-so/whirlpools/tree/main/rust-sdk/whirlpool)                    | [TypeScript Kit SDK](https://github.com/orca-so/whirlpools/tree/main/ts-sdk/whirlpool)                |
-|                                                                                                   | [TypeScript Legacy SDK](https://github.com/orca-so/whirlpools/tree/main/legacy-sdk/whirlpool)         |
-| [Rust Transaction Sender SDK](https://github.com/orca-so/whirlpools/tree/main/rust-sdk/tx-sender) | [TypeScript Transaction Sender SDK](https://github.com/orca-so/whirlpools/tree/main/ts-sdk/tx-sender) |
-| [Rust Client/CPI SDK](https://github.com/orca-so/whirlpools/tree/main/rust-sdk/client)            | [TypeScript Client SDK](https://github.com/orca-so/whirlpools/tree/main/ts-sdk/client)                |
-| [Core SDK (math & quote)](https://github.com/orca-so/whirlpools/tree/main/rust-sdk/core)          | Available for both Rust and TypeScript                                                                |
+### Rust
+
+- [Rust SDK](https://github.com/orca-so/whirlpools/tree/main/rust-sdk/whirlpool)
+- [Rust Transaction Sender SDK](https://github.com/orca-so/whirlpools/tree/main/rust-sdk/tx-sender)
+- [Rust Client/CPI SDK](https://github.com/orca-so/whirlpools/tree/main/rust-sdk/client)
+- [Core SDK (math & quote)](https://github.com/orca-so/whirlpools/tree/main/rust-sdk/core)
+
+### TypeScript
+
+- [TypeScript Kit SDK](https://github.com/orca-so/whirlpools/tree/main/ts-sdk/whirlpool)
+- [TypeScript Legacy SDK](https://github.com/orca-so/whirlpools/tree/main/legacy-sdk/whirlpool)
+- [TypeScript Transaction Sender SDK](https://github.com/orca-so/whirlpools/tree/main/ts-sdk/tx-sender)
+- [TypeScript Client SDK](https://github.com/orca-so/whirlpools/tree/main/ts-sdk/client)
+- [Core SDK (math & quote)](https://github.com/orca-so/whirlpools/tree/main/rust-sdk/core)
 
 ## Tutorials and Examples
 
