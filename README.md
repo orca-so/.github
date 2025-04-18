@@ -1,16 +1,16 @@
 <p align="center">
   <img src="./logomark.png" alt="Orca Logo" width="64px"/>
 </p>
-<p align="center", style="text-decoration: none">
-  <a href="https://twitter.com/intent/follow?screen_name=orca_so">
+<p align="center">
+  <a href="https://twitter.com/intent/follow?screen_name=orca_so" style="text-decoration: none">
     <img src="https://img.shields.io/badge/Follow-000000?style=flat&logo=x&logoColor=white" alt="X" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://discord.gg/dHe94wQB">
+  <a href="https://discord.gg/dHe94wQB" style="text-decoration: none">
     <img src="https://img.shields.io/badge/Join-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://t.me/+cXol3WI6dVoyYTM1">
+  <a href="https://t.me/+cXol3WI6dVoyYTM1" style="text-decoration: none">
     <img src="https://img.shields.io/badge/Join-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </p>
