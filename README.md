@@ -3,15 +3,15 @@
 </p>
 <p align="center">
   <a href="https://twitter.com/intent/follow?screen_name=orca_so">
-    <img height="28" src="https://img.shields.io/badge/Follow-000000?style=flat&logo=x&logoColor=white" alt="X" />
+    <img height="28" width="96" src="https://img.shields.io/badge/Follow-000000?style=flat&logo=x&logoColor=white" alt="X" />
   </a>
   &nbsp;&nbsp;
   <a href="https://discord.gg/dHe94wQB">
-    <img height="28" src="https://img.shields.io/badge/Join-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord" />
+    <img height="28" width="96" src="https://img.shields.io/badge/Join-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord" />
   </a>
   &nbsp;&nbsp;
   <a href="https://t.me/+cXol3WI6dVoyYTM1">
-    <img height="28" src="https://img.shields.io/badge/Join-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram" />
+    <img height="28" width="96" src="https://img.shields.io/badge/Join-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </p>
 
