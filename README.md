@@ -17,16 +17,24 @@
 
 - [Whirlpool Program](https://github.com/orca-so/whirlpools/tree/main/programs/whirlpool)
 
+## Docs
+
+- [Developer documentation](https://dev.orca.so/)
+- [Prodcut documentation](https://docs.orca.so/)
+
+## API
+
+- [API Reference Docs](https://api.orca.so/docs)
+
 ## SDKs
 
-- [Typescript Kit SDK](https://github.com/orca-so/whirlpools/tree/main/ts-sdk/whirlpool)
-- [Typescript Legacy SDK](https://github.com/orca-so/whirlpools/tree/main/legacy-sdk/whirlpool)
-- [Rust SDK](https://github.com/orca-so/whirlpools/tree/main/rust-sdk/whirlpool)
-- [Rust/Typescript Core SDK (math & quote)](https://github.com/orca-so/whirlpools/tree/main/rust-sdk/core)
-- [Rust Transaction Sender SDK](https://github.com/orca-so/whirlpools/tree/main/rust-sdk/tx-sender)
-- [Typescript Transaction Sender SDK](https://github.com/orca-so/whirlpools/tree/main/ts-sdk/tx-sender)
-- [Rust Client/CPI SDK](https://github.com/orca-so/whirlpools/tree/main/rust-sdk/client)
-- [Typescript Client SDK](https://github.com/orca-so/whirlpools/tree/main/ts-sdk/client)
+| Rust                                                                                              | TypeScript                                                                                            |
+| ------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| [Rust SDK](https://github.com/orca-so/whirlpools/tree/main/rust-sdk/whirlpool)                    | [TypeScript Kit SDK](https://github.com/orca-so/whirlpools/tree/main/ts-sdk/whirlpool)                |
+|                                                                                                   | [TypeScript Legacy SDK](https://github.com/orca-so/whirlpools/tree/main/legacy-sdk/whirlpool)         |
+| [Rust Transaction Sender SDK](https://github.com/orca-so/whirlpools/tree/main/rust-sdk/tx-sender) | [TypeScript Transaction Sender SDK](https://github.com/orca-so/whirlpools/tree/main/ts-sdk/tx-sender) |
+| [Rust Client/CPI SDK](https://github.com/orca-so/whirlpools/tree/main/rust-sdk/client)            | [TypeScript Client SDK](https://github.com/orca-so/whirlpools/tree/main/ts-sdk/client)                |
+| [Core SDK (math & quote)](https://github.com/orca-so/whirlpools/tree/main/rust-sdk/core)          | Available for both Rust and TypeScript                                                                |
 
 ## Tutorials and Examples
 
@@ -40,7 +48,6 @@
 - [Account Microscope](https://github.com/orca-so/account-microscope)
 - [Transaction Replayer](https://github.com/orca-so/whirlpool-tx-replayer)
 
-## Docs
+## Developer Feedback
 
-- [Developer documentation](https://dev.orca.so/)
-- [Prodcut documentation](https://docs.orca.so/)
+We value your input! Help us improve Orca's developer tools by sharing your feedback: https://tally.so/r/wkvg6e
