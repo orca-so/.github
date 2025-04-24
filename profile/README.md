@@ -37,6 +37,7 @@
 
 - [Typescript Kit SDK tutorial](https://github.com/orca-so/whirlpools-sdk-tutorial-kit)
 - [Typescript Legacy SDK tutorial](https://github.com/orca-so/whirlpools-sdk-tutorial-legacy)
+- [CPI example for launchpads](https://github.com/orca-so/whirlpools-cpi-examples)
 - [TS Kit SDK setup with Next.js](https://github.com/orca-so/whirlpools/tree/main/examples/ts-sdk/next)
 - [Rust repositioning bot](https://github.com/orca-so/whirlpools/tree/main/examples/rust-sdk/whirlpool_repositioning_bot)
 
