@@ -6,6 +6,7 @@
 </p>
 
 - [Whirlpool Program](https://github.com/orca-so/whirlpools/tree/main/programs/whirlpool)
+- [IDL](https://cdn.jsdelivr.net/npm/@orca-so/whirlpools-sdk@latest/dist/artifacts/whirlpool.json)
 
 ## Docs
 
